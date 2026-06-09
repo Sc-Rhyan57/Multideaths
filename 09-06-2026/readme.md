@@ -1,7 +1,5 @@
 # Summary of updates  — Multideaths
-
-
-# Update 09-06-2026
+> Update 09-06-2026
 
 ## What has changed?
 
