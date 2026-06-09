@@ -27,6 +27,7 @@ When the scoreboard updates and detects players that weren't there before, they 
 
 ### separate layoutId
 The visual conflict that caused glitches in the cards was corrected by separating the `layoutId` of the top 3 (`top3-card-`) and the list (`list-card-`), which previously shared the same identifier and caused animation issues.
+![RISE PRINT](https://raw.githubusercontent.com/Sc-Rhyan57/Multideaths/refs/heads/main/09-06-2026/Screenshot_20260608_191535_Chrome.jpg)
 
 ### Page does not reset on automatic refresh.
 The automatic refresh every 30 seconds no longer resets the current page in the pagination or closes the profile being viewed.
