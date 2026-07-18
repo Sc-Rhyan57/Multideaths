@@ -9,3 +9,7 @@
 ## EXTRA:
 > I need proactive people to update the website! If you're interested, come join us on this server!
 > > https://discord.gg/awaevMH325
+
+## Have a great day! - rhyan57 :D
+
+![YOKASO](https://raw.githubusercontent.com/Sc-Rhyan57/RandomStuff/refs/heads/main/Novo%20projeto%2061%20%5BB09E78A%5D.gif)
