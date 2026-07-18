@@ -8,7 +8,7 @@
 
 ## EXTRA:
 > I need proactive people to update the website! If you're interested, come join us on this server!
-> > https://discord.gg/awaevMH325
+> https://discord.gg/awaevMH325
 
 ## Have a great day! - rhyan57 :D
 
